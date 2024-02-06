@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\bin\Debug\05_EstRepeticao_For.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\bin\Debug\05_EstRepeticao_For.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\bin\Debug\05_EstRepeticao_For.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\obj\Debug\05_EstRepeticao_For.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\obj\Debug\05_EstRepeticao_For.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\obj\Debug\05_EstRepeticao_For.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\05_EstRepeticao_For\obj\Debug\05_EstRepeticao_For.pdb

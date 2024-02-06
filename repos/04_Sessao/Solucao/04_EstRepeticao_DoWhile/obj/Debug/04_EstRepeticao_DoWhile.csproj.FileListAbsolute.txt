@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\bin\Debug\04_EstRepeticao_DoWhile.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\bin\Debug\04_EstRepeticao_DoWhile.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\bin\Debug\04_EstRepeticao_DoWhile.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\obj\Debug\04_EstRepeticao_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\obj\Debug\04_EstRepeticao_DoWhile.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\04_EstRepeticao_DoWhile\obj\Debug\04_EstRepeticao_DoWhile.pdb

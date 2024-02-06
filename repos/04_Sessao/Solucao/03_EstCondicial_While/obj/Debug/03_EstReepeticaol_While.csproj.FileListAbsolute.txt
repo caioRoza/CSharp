@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\bin\Debug\03_EstCondicial_While.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\bin\Debug\03_EstCondicial_While.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\bin\Debug\03_EstCondicial_While.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\obj\Debug\03_EstReepeticaol_While.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\obj\Debug\03_EstCondicial_While.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\03_EstCondicial_While\obj\Debug\03_EstCondicial_While.pdb

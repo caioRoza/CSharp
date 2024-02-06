@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\bin\Debug\01_EstCondicional_IF.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\bin\Debug\01_EstCondicional_IF.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\bin\Debug\01_EstCondicional_IF.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\obj\Debug\01_EstCondicional_IF.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\obj\Debug\01_EstCondicional_IF.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\obj\Debug\01_EstCondicional_IF.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\01_EstCondicional_IF\obj\Debug\01_EstCondicional_IF.pdb

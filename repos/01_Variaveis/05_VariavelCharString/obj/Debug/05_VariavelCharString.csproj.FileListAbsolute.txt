@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\bin\Debug\05_VariavelCharString.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\bin\Debug\05_VariavelCharString.exe
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\bin\Debug\05_VariavelCharString.pdb
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\obj\Debug\05_VariavelCharString.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\obj\Debug\05_VariavelCharString.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\obj\Debug\05_VariavelCharString.exe
+C:\Users\caroza\source\repos\01_Variaveis\05_VariavelCharString\obj\Debug\05_VariavelCharString.pdb

@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\bin\Debug\11_EntradaSaida.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\bin\Debug\11_EntradaSaida.exe
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\bin\Debug\11_EntradaSaida.pdb
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\obj\Debug\11_EntradaSaida.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\obj\Debug\11_EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\obj\Debug\11_EntradaSaida.exe
+C:\Users\caroza\source\repos\01_Variaveis\11_EntradaSaida\obj\Debug\11_EntradaSaida.pdb

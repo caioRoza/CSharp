@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\bin\Debug\03_Sobrecarga.exe.config
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\bin\Debug\03_Sobrecarga.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\bin\Debug\03_Sobrecarga.pdb
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\obj\Debug\03_Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\obj\Debug\03_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\obj\Debug\03_Sobrecarga.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\03_Sobrecarga\obj\Debug\03_Sobrecarga.pdb

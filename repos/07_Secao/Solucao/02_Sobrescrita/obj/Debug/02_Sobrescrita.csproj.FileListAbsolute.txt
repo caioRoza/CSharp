@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\bin\Debug\02_Sobrescrita.exe.config
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\bin\Debug\02_Sobrescrita.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\bin\Debug\02_Sobrescrita.pdb
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\obj\Debug\02_Sobrescrita.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\obj\Debug\02_Sobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\obj\Debug\02_Sobrescrita.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\02_Sobrescrita\obj\Debug\02_Sobrescrita.pdb

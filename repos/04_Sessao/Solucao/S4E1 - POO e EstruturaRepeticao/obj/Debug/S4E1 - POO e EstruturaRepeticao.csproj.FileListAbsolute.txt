@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\bin\Debug\S4E1 - POO e EstruturaRepeticao.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\bin\Debug\S4E1 - POO e EstruturaRepeticao.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\bin\Debug\S4E1 - POO e EstruturaRepeticao.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\obj\Debug\S4E1 - POO e EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\obj\Debug\S4E1 - POO e EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\obj\Debug\S4E1 - POO e EstruturaRepeticao.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\S4E1 - POO e EstruturaRepeticao\obj\Debug\S4E1 - POO e EstruturaRepeticao.pdb

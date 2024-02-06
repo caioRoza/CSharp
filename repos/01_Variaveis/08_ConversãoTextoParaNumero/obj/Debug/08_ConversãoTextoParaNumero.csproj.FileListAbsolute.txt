@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\bin\Debug\08_ConversãoTextoParaNumero.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\bin\Debug\08_ConversãoTextoParaNumero.exe
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\bin\Debug\08_ConversãoTextoParaNumero.pdb
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\obj\Debug\08_ConversãoTextoParaNumero.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\obj\Debug\08_ConversãoTextoParaNumero.exe
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\obj\Debug\08_ConversãoTextoParaNumero.pdb
+C:\Users\caroza\source\repos\01_Variaveis\08_ConversãoTextoParaNumero\obj\Debug\08_ConversãoTextoParaNumero.csproj.AssemblyReference.cache

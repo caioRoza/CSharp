@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\bin\Debug\04_Dicionario.exe.config
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\bin\Debug\04_Dicionario.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\bin\Debug\04_Dicionario.pdb
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\obj\Debug\04_Dicionario.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\obj\Debug\04_Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\obj\Debug\04_Dicionario.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\04_Dicionario\obj\Debug\04_Dicionario.pdb

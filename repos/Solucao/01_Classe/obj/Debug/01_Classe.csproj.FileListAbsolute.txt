@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\Solucao\01_Classe\obj\Debug\01_Classe.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\Solucao\01_Classe\obj\Debug\01_Classe.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\Solucao\01_Classe\bin\Debug\01_Classe.exe.config
+C:\Users\caroza\source\repos\Solucao\01_Classe\bin\Debug\01_Classe.exe
+C:\Users\caroza\source\repos\Solucao\01_Classe\bin\Debug\01_Classe.pdb
+C:\Users\caroza\source\repos\Solucao\01_Classe\obj\Debug\01_Classe.exe
+C:\Users\caroza\source\repos\Solucao\01_Classe\obj\Debug\01_Classe.pdb

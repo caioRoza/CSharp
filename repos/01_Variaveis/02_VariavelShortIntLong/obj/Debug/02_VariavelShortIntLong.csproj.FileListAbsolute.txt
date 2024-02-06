@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\bin\Debug\02_VariavelShortIntLong.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\bin\Debug\02_VariavelShortIntLong.exe
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\bin\Debug\02_VariavelShortIntLong.pdb
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\obj\Debug\02_VariavelShortIntLong.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\obj\Debug\02_VariavelShortIntLong.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\obj\Debug\02_VariavelShortIntLong.exe
+C:\Users\caroza\source\repos\01_Variaveis\02_VariavelShortIntLong\obj\Debug\02_VariavelShortIntLong.pdb

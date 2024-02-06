@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\obj\Debug\S2E1_EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\bin\Debug\S2E1_EntradaSaida.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\bin\Debug\S2E1_EntradaSaida.exe
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\bin\Debug\S2E1_EntradaSaida.pdb
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\obj\Debug\S2E1_EntradaSaida.exe
+C:\Users\caroza\source\repos\01_Variaveis\S2E1_EntradaSaida\obj\Debug\S2E1_EntradaSaida.pdb

@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\bin\Debug\04_Polimorfismo.exe.config
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\bin\Debug\04_Polimorfismo.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\bin\Debug\04_Polimorfismo.pdb
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\obj\Debug\04_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\obj\Debug\04_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\obj\Debug\04_Polimorfismo.exe
+C:\Users\caroza\source\repos\07_Secao\Solucao\04_Polimorfismo\obj\Debug\04_Polimorfismo.pdb

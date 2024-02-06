@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\bin\Debug\03_Lista.exe.config
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\bin\Debug\03_Lista.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\bin\Debug\03_Lista.pdb
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\obj\Debug\03_Lista.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\obj\Debug\03_Lista.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\obj\Debug\03_Lista.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\03_Lista\obj\Debug\03_Lista.pdb

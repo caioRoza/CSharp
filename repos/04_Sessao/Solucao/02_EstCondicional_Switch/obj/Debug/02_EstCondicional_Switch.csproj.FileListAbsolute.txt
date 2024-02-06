@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\bin\Debug\02_EstCondicional_Switch.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\bin\Debug\02_EstCondicional_Switch.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\bin\Debug\02_EstCondicional_Switch.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\obj\Debug\02_EstCondicional_Switch.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\obj\Debug\02_EstCondicional_Switch.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\obj\Debug\02_EstCondicional_Switch.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\02_EstCondicional_Switch\obj\Debug\02_EstCondicional_Switch.pdb

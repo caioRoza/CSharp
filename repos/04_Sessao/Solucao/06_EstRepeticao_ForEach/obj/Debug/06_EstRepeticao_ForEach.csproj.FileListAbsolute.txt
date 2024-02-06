@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\bin\Debug\06_EstRepeticao_ForEach.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\bin\Debug\06_EstRepeticao_ForEach.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\bin\Debug\06_EstRepeticao_ForEach.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\obj\Debug\06_EstRepeticao_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\obj\Debug\06_EstRepeticao_ForEach.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\06_EstRepeticao_ForEach\obj\Debug\06_EstRepeticao_ForEach.pdb

@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\bin\Debug\01_Array.exe.config
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\bin\Debug\01_Array.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\bin\Debug\01_Array.pdb
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\obj\Debug\01_Array.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\obj\Debug\01_Array.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\obj\Debug\01_Array.exe
+C:\Users\caroza\source\repos\05_Sessao\Solucao\01_Array\obj\Debug\01_Array.pdb

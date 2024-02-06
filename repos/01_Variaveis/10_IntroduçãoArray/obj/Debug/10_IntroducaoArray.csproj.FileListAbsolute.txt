@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\bin\Debug\10_IntroduçãoArray.exe.config
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\bin\Debug\10_IntroduçãoArray.exe
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\bin\Debug\10_IntroduçãoArray.pdb
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\obj\Debug\10_IntroducaoArray.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\obj\Debug\10_IntroducaoArray.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\obj\Debug\10_IntroduçãoArray.exe
+C:\Users\caroza\source\repos\01_Variaveis\10_IntroduçãoArray\obj\Debug\10_IntroduçãoArray.pdb

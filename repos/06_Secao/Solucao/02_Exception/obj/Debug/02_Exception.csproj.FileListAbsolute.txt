@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\bin\Debug\02_Exception.exe.config
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\bin\Debug\02_Exception.exe
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\bin\Debug\02_Exception.pdb
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\obj\Debug\02_Exception.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\obj\Debug\02_Exception.exe
+C:\Users\caroza\source\repos\06_Secao\Solucao\02_Exception\obj\Debug\02_Exception.pdb

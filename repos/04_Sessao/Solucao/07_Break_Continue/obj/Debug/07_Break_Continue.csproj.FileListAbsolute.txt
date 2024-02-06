@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\bin\Debug\07_Break_Continue.exe.config
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\bin\Debug\07_Break_Continue.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\bin\Debug\07_Break_Continue.pdb
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\obj\Debug\07_Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\obj\Debug\07_Break_Continue.exe
+C:\Users\caroza\source\repos\04_Sessao\Solucao\07_Break_Continue\obj\Debug\07_Break_Continue.pdb

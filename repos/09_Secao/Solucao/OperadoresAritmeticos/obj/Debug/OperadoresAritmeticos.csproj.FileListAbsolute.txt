@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
