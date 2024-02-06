@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\bin\Debug\03_VerificarExiste.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\bin\Debug\03_VerificarExiste.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\bin\Debug\03_VerificarExiste.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\obj\Debug\03_VerificarExiste.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\obj\Debug\03_VerificarExiste.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\03_VerificarExiste\obj\Debug\03_VerificarExiste.pdb

@@ -1,0 +1,7 @@
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe.config
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.exe
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\bin\Debug\OperadoresRelacionais.pdb
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.exe
+C:\Users\caroza\source\repos\09_Secao\Solucao\OperadoresRelacionais\obj\Debug\OperadoresRelacionais.pdb

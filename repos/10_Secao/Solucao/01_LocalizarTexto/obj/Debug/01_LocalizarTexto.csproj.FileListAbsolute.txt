@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\bin\Debug\01_LocalizarTexto.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\bin\Debug\01_LocalizarTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\bin\Debug\01_LocalizarTexto.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\obj\Debug\01_LocalizarTexto.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\obj\Debug\01_LocalizarTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\01_LocalizarTexto\obj\Debug\01_LocalizarTexto.pdb

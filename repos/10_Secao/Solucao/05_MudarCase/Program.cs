@@ -4,18 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OperadoresRelacionais
+namespace _05_MudarCase
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine(10 == 10);
-			Console.WriteLine(11 == 10);
+			String texto = "Ola amiguinhos, feliz ano novo";
 
-			if (10 == 10){
-				Console.WriteLine("10 é igual 10");
-			}
+			Console.WriteLine(texto.ToUpper());
+			Console.WriteLine(texto.ToLower());
 
 			Console.ReadKey();
 		}

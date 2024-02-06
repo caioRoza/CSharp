@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\bin\Debug\08_ObterTexto.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\bin\Debug\08_ObterTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\bin\Debug\08_ObterTexto.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\obj\Debug\08_ObterTexto.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\obj\Debug\08_ObterTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\08_ObterTexto\obj\Debug\08_ObterTexto.pdb

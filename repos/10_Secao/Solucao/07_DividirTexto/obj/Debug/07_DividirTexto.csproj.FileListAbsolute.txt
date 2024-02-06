@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\bin\Debug\07_DividirTexto.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\bin\Debug\07_DividirTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\bin\Debug\07_DividirTexto.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\obj\Debug\07_DividirTexto.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\obj\Debug\07_DividirTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\07_DividirTexto\obj\Debug\07_DividirTexto.pdb

@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\bin\Debug\02_Substituir.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\bin\Debug\02_Substituir.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\bin\Debug\02_Substituir.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\obj\Debug\02_Substituir.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\obj\Debug\02_Substituir.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\02_Substituir\obj\Debug\02_Substituir.pdb

@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\bin\Debug\05_MudarCase.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\bin\Debug\05_MudarCase.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\bin\Debug\05_MudarCase.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\obj\Debug\05_MudarCase.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\obj\Debug\05_MudarCase.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\05_MudarCase\obj\Debug\05_MudarCase.pdb

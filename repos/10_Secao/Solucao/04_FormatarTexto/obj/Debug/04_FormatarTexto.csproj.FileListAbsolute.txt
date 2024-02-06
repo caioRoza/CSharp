@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\bin\Debug\04_FormatarTexto.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\bin\Debug\04_FormatarTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\bin\Debug\04_FormatarTexto.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\obj\Debug\04_FormatarTexto.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\obj\Debug\04_FormatarTexto.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\04_FormatarTexto\obj\Debug\04_FormatarTexto.pdb

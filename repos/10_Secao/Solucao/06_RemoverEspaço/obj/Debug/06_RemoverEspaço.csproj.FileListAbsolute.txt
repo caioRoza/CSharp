@@ -1,0 +1,6 @@
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\bin\Debug\06_RemoverEspaço.exe.config
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\bin\Debug\06_RemoverEspaço.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\bin\Debug\06_RemoverEspaço.pdb
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\obj\Debug\06_RemoverEspaço.csproj.CoreCompileInputs.cache
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\obj\Debug\06_RemoverEspaço.exe
+C:\Users\caroza\source\repos\10_Secao\Solucao\06_RemoverEspaço\obj\Debug\06_RemoverEspaço.pdb
